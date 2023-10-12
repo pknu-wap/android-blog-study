@@ -1,13 +1,13 @@
 ## Android-Blog-Study
 
-### 기록
 
-[@jeongjaino](https://github.com/jeongjaino)
-[@tgyuuAn](https://github.com/tgyuuAn)
-[@Zepelown](https://github.com/Zepelown)
-[@pknujsp](https://github.com/pknujsp)
-[@Redish03](https://github.com/Redish03)
-[@SeongHoonC](https://github.com/SeongHoonC)
+### Members
+
+|                                             [@jeongjaino](https://github.com/jeongjaino)                                             |                                                [@pknujsp](https://github.com/pknujsp)                                                 |                                                 [@tgyuuAn](https://github.com/tgyuuAn)                                                 |                                             [@Zepelown](https://github.com/Zepelown)                                              |                                             [@Redish03](https://github.com/Redish03)                                              |                                             [@SeongHoonC](https://github.com/SeongHoonC)                                             |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="(https://github.com/jeongjaino"><img src="https://avatars.githubusercontent.com/u/77484719?v=4" width="64" height="64"></a> | <a href="https://github.com/pknujsp"><img src="https://avatars.githubusercontent.com/u/48265129?s=64&v=4" width="64" height="64"></a> | <a href="https://github.com/tgyuuAn"><img src="https://avatars.githubusercontent.com/u/116813010?s=64&v=4" width="64" height="64"></a> | <a href="https://github.com/Zepelown"><img src="https://avatars.githubusercontent.com/u/49135677?v=4" width="64" height="64"></a> | <a href="https://github.com/Redish03"><img src="https://avatars.githubusercontent.com/u/98575563?v=4" width="64" height="64"></a> | <a href="https://github.com/SeongHoonC"><img src="https://avatars.githubusercontent.com/u/108349655?v=4" width="64" height="64"></a> |
+
+### 주차별 스터디 기록
 
 #### 1주차 : 2023-5-9
 
