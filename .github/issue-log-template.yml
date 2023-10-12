@@ -1,0 +1,14 @@
+name: 주차별 스터디 기록
+description: 스터디 기록을 주차별로 관리합니다.
+title: "[New]: "
+labels: ["log"]
+
+body:
+  - type: textarea
+    id: task-list
+    attributes:
+      label: 🔲제출자
+      description: 스터디 내용을 작성완료 한 경우, 제출자를 체크해주세요.
+      placeholder: 
+    validations:
+      required: true
