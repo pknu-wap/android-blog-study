@@ -69,6 +69,7 @@
     <tr>
         <th>날짜</th>
         <th>블로그</th>
+      <th>이슈 번호</th>
     </tr>
     <tr>
         <td>1주차 (2023.5.9)</td>
@@ -172,6 +173,7 @@
         <td>
           <a href="https://seonghoonc.tistory.com/36">뷰가 그려지는 과정(View Lifecycle) 이해하기</a>
       </td>
+    <td>https://github.com/pknu-wap/android-blog-study/issues/2</td>
   </tr>
 </table>
 
@@ -184,6 +186,7 @@
     <tr>
         <th>날짜</th>
         <th>블로그</th>
+        <th>이슈 번호</th>
     </tr>
     <tr>
         <td>1주차 (2023.5.9)</td>
@@ -276,10 +279,11 @@
         </td>
     </tr>
     <tr>
-        <td>17주차 (2023.10.22)</td>
+        <td>[7주차 (2023.10.22)</td>
         <td>
-          <a href="https://pknujsp.github.io/dalvik/art/android/2023/10/15/Android-Dalvik과-Art에-대해서.html ">Android Dalvik과 ART에 대해서</a>
+          <a href="https://pknujsp.github.io/dalvik/art/android/2023/10/15/Android-Dalvik과-Art에-대해서.html">Android Dalvik과 ART에 대해서</a>
         </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/2</td>
     </tr>
   
 
