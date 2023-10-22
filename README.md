@@ -151,8 +151,8 @@
   <tr>
         <td>12주차 (2023.9.3)</td>
         <td>
-          <a href="https://seonghoonc.tistory.com/30">Flow 공식문서로 이해하기 - 2차 StateFlow & SharedFlow</a>
-          <a href="https://seonghoonc.tistory.com/31">[안드로이드] 테스트 라이브러리 Robolectric</a>
+          <a href="https://seonghoonc.tistory.com/30">Flow 공식문서로 이해하기 - 2차 StateFlow & SharedFlow</a> <br>
+          <a href="https://seonghoonc.tistory.com/31">테스트 라이브러리 Robolectric</a>
         </td>
     <td/>
     </tr>
