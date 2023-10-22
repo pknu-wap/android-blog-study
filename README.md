@@ -310,7 +310,7 @@
        <td/>
     </tr>
     <tr>
-        <td>[7주차 (2023.10.22)</td>
+        <td>17주차 (2023.10.22)</td>
         <td>
           <a href="https://pknujsp.github.io/dalvik/art/android/2023/10/15/Android-Dalvik과-Art에-대해서.html">Android Dalvik과 ART에 대해서</a>
         </td>
