@@ -76,66 +76,77 @@
         <td>
           <a href="https://seonghoonc.tistory.com/17">Fragment 와 Fragment Manager</a>
         </td>
+      <td/>
     </tr>
    <tr>
         <td>2주차 (2023.5.25)</td>
         <td>
           <a href="https://seonghoonc.tistory.com/18">Room Local DB</a>
         </td>
+     <td/>
     </tr>
     <tr>
         <td>3주차 (2023.6.1)</td>
         <td>
           <a href="https://seonghoonc.tistory.com/19">Fragment Lifecycle (프래그먼트 생명 주기)</a>
         </td>
+      <td/>
     </tr>
     <tr>
         <td>4주차 (2023.7.2)</td>
         <td>
           <a href="https://seonghoonc.tistory.com/20">Presenter 테스트 작성하기 (안드로이드 MVP)</a>
         </td>
+      <td/>
     </tr>
     <tr>
         <td>5주차 (2023.7.9)</td>
         <td>
           <a href="https://seonghoonc.tistory.com/21">MVP 패턴 MVVM 패턴으로 리팩터링하기</a>
         </td>
+      <td/>
     </tr>
     <tr>
         <td>6주차 (2023.7.16)</td>
         <td>
           <a href="https://seonghoonc.tistory.com/22">Kotlin coroutine 강의로 이해하기 - 1</a>
         </td>
+      <td/>
     </tr>
     <tr>
         <td>7주차 (2023.7.22)</td>
         <td>
           <a href="https://seonghoonc.tistory.com/23">ViewModel 테스트하기</a>
         </td>
+      <td/>
     </tr>
   <tr>
         <td>8주차 (2023.7.30)</td>
         <td>
           <a href="https://seonghoonc.tistory.com/24">Kotlin coroutine 강의로 이해하기 - 2</a>
         </td>
+    <td/>
     </tr>
   <tr>
         <td>9주차 (2023.8.6)</td>
         <td>
           <a href="https://seonghoonc.tistory.com/25">App 로깅 전략 with Firebase Analytics</a>
         </td>
+    <td/>
     </tr>
     <tr>
         <td>10주차 (2023.8.13)</td>
         <td>
           <a href="https://seonghoonc.tistory.com/26">좋은코드 나쁜코드 2장 - 추상화 계층</a>
         </td>
+      <td/>
     </tr>
   <tr>
         <td>11주차 (2023.8.25)</td>
         <td>
           <a href="https://seonghoonc.tistory.com/29">Flow 공식문서로 이해하기 - 1차 Flow 기초</a>
         </td>
+    <td/>
     </tr>
   <tr>
         <td>12주차 (2023.9.3)</td>
@@ -143,30 +154,35 @@
           <a href="https://seonghoonc.tistory.com/30">Flow 공식문서로 이해하기 - 2차 StateFlow & SharedFlow</a>
           <a href="https://seonghoonc.tistory.com/31">[안드로이드] 테스트 라이브러리 Robolectric</a>
         </td>
+    <td/>
     </tr>
   <tr>
         <td>13주차 (2023.9.10)</td>
         <td>
           <a href="https://seonghoonc.tistory.com/32">Reflection</a>
         </td>
+    <td/>
     </tr>
   <tr>
       <td>14주차 (2023.9.17)</td>
         <td>
           <a href="https://seonghoonc.tistory.com/33">LiveData 를 Flow 로 Refactoring 하기</a>
       </td>
+    <td/>
   </tr>
   <tr>
       <td>15주차 (2023.10.1)</td>
         <td>
           <a href="https://seonghoonc.tistory.com/34">자동 DI 라이브러리 만들기</a>
       </td>
+    <td/>
   </tr>
   <tr>
       <td>16주차 (2023.10.8)</td>
         <td>
           <a href="https://seonghoonc.tistory.com/35">내가 꿈꾸는 프로그래머로서의 삶</a>
       </td>
+    <td/>
   </tr>
   <tr>
       <td>17주차 (2023.10.22)</td>
@@ -193,90 +209,105 @@
         <td>
           <a href="https://pknujsp.github.io/compose/2023/05/09/Android-Compose-%EC%B2%AB-%EB%8F%84%EC%9E%85-%ED%9B%84%EA%B8%B0.html">Android Compose 첫 도입 후기</a>
         </td>
+      <td/>
     </tr>
    <tr>
         <td>2주차 (2023.5.25)</td>
         <td>
           <a href="https://pknujsp.github.io/navigation/2023/05/23/%EB%84%A4%EB%B9%84%EA%B2%8C%EC%9D%B4%EC%85%98-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%94%A5%EB%A7%81%ED%81%AC-%EC%82%AC%EC%9A%A9%EC%84%B1-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0.html">Navigation Component DeepLink로 이동시 Arguments 전달 편의성 개선하기</a>
         </td>
+     <td/>
     </tr>
     <tr>
         <td>3주차 (2023.6.1)</td>
         <td>
           <a href="https://pknujsp.github.io/android/2023/05/31/Android-커스텀-레이아웃으로-앱-위젯-만들기.html">Android 커스텀 레이아웃으로 앱 위젯 만들기</a>
         </td>
+      <td/>
     </tr>
     <tr>
         <td>4주차 (2023.7.2)</td>
         <td>
           <a href="https://pknujsp.github.io/android/2023/07/01/Android-Dialog-%EB%B0%B0%EA%B2%BD-%ED%9D%90%EB%A6%BC-%ED%9A%A8%EA%B3%BC-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.html">Android Dialog Window 흐림 효과 적용하기</a>
         </td>
+      <td/>
     </tr>
     <tr>
         <td>5주차 (2023.7.9)</td>
         <td>
           <a href="https://pknujsp.github.io/android/2023/07/09/RecyclerViewPool%EC%97%90-%EB%8C%80%ED%95%B4.html">RecyclerView의 동작 로직에 대해 자세히 알아보기</a>
         </td>
+      <td/>
     </tr>
     <tr>
         <td>6주차 (2023.7.16)</td>
         <td>
           <a href="https://pknujsp.github.io/kotlin/2023/07/14/Kotlin-동시성-문제-해결방법.html">Kotlin 동시성 문제 해결방법</a>
         </td>
+      <td/>
     </tr>
     <tr>
         <td>7주차 (2023.7.22)</td>
         <td>
           <a href="https://pknujsp.github.io/android/2023/07/22/Android-시스템바-레이아웃-변경하기.html">Android 시스템 바 레이아웃 변경하기</a>
         </td>
+      <td/>
     </tr>
     <tr>
         <td>8주차 (2023.7.30)</td>
         <td>
           <a href="https://pknujsp.github.io/android/2023/07/30/Android-상태바와-네비게이션바-색상-자동-변경-처리하기.html">Android 시스템 바(상태바, 네비게이션바) 색상 자동 변경 처리하기</a>
         </td>
+      <td/>
     </tr>
    <tr>
         <td>9주차 (2023.8.6)</td>
         <td>
           <a href="https://pknujsp.github.io/kotlin/2023/08/03/Kotlin-sealed-class-상태별-함수-자동-생성하기.html">Kotlin sealed class/interface 각각에 대하여 상태 함수 자동 생성하기</a>
         </td>
+     <td/>
     </tr>
     <tr>
         <td>10주차 (2023.8.13)</td>
         <td>
           <a href="https://pknujsp.github.io/android/2023/08/13/androidx.collection-라이브러리-살펴보기(SparseArray,-ArrayMap,-LruCache-/).html">ArrayMap, SparseArray, LruCache에 대해서 알아보기</a>
         </td>
+      <td/>
     </tr>
     <tr>
         <td>11주차 (2023.8.25)</td>
         <td>
           <a href="https://pknujsp.github.io/android/2023/08/24/Android-그래프-그리는-View만들기.html">그래프 그리는 View만들기</a>
         </td>
+      <td/>
     </tr>
     <tr>
         <td>12주차 (2023.9.3)</td>
         <td>
           <a href="https://pknujsp.github.io/kotlin/2023/09/02/Kotlin-1.9,-2.0-미리보기.html">Kotlin 1.9, 2.0 미리보기</a>
         </td>
+      <td/>
     </tr>
      <tr>
         <td>13주차 (2023.9.10)</td>
         <td>
           <a href="https://pknujsp.github.io/android/2023/09/10/Android-Compose와-View컴포넌트-비교.html">Android Compose와 View 컴포넌트 비교</a>
         </td>
+       <td/>
     </tr>
     <tr>
         <td>14주차 (2023.9.17)</td>
         <td>
           <a href="https://pknujsp.github.io/garbagecollector/2023/09/17/Garbage-collector에-대해서.html">Garbage collector에 대해서 알아보자</a>
         </td>
+      <td/>
     </tr>
      <tr>
         <td>16주차 (2023.10.8)</td>
         <td>
           <a href="https://pknujsp.github.io/jvm/2023/10/08/JVM(Java-Virtual-Machine)이란.html#h-httpsmediumcomlazysouljvm-ec9db4eb9e80-c142b01571f2">JVM (Java Virtual Machine)이란?</a>
         </td>
+       <td/>
     </tr>
     <tr>
         <td>[7주차 (2023.10.22)</td>
