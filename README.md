@@ -322,6 +322,134 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/2</td>
     </tr>
+
+<br><br>
+
+</table>
+
+   ## 정진호 [@jeongjaino](https://github.com/jeongjaino)  
+<a href="https://github.com/jeongjaino"><img src="https://avatars.githubusercontent.com/u/77484719?v=4" width="64" height="64"></a>
+
+<table>
+    <tr>
+        <th>날짜</th>
+        <th>블로그</th>
+        <th>이슈 번호</th>
+    </tr>
+    <tr>
+        <td>1주차 (2023.5.9)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/41">Android Jetpack : Paging3 + Room로 로컬 캐싱 구현하기</a>
+        </td>
+      <td/>
+    </tr>
+   <tr>
+        <td>2주차 (2023.5.25)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/42">Android SharedData : View간 Data를 공유하는 방법 및 예시</a>
+        </td>
+     <td/>
+    </tr>
+    <tr>
+        <td>3주차 (2023.6.1)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/43">Android Navigation : Multi Module Navigation</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>4주차 (2023.7.2)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/46">Android Version Catalog : 라이브러리 버전 관리</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>5주차 (2023.7.9)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/47">Kotlin Result : 결과와 예외 처리하기</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>6주차 (2023.7.16)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/51">Android Multi Module : 다중 모듈 구성시 발생할 수 있는 문제</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>7주차 (2023.7.22)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/52">Android DataStore : Proto DataStore + Protocol Buffers (1)</a><br>
+          <a href="https://jeongjaino.tistory.com/53">Android DataStore : Proto DataStore + Hilt (2)</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>8주차 (2023.7.30)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/56">Android Compose : Managing State</a>
+        </td>
+      <td/>
+    </tr>
+   <tr>
+        <td>9주차 (2023.8.6)</td>
+        <td>
+           <a href="https://jeongjaino.tistory.com/58">Android Temporal : DateTime API (1)</a><br>
+          <a href="https://jeongjaino.tistory.com/59">Android Temporal : DateTime API (2)</a>
+        </td>
+     <td/>
+    </tr>
+    <tr>
+        <td>10주차 (2023.8.13)</td>
+        <td>
+          <a>정자이노 홍콩 마카오 여행 </a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>11주차 (2023.8.25)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/60">랜덤 개발 챌린지 : NAPPED Trouble Shooting</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>12주차 (2023.9.3)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/61">Android Test : 테스트 시작하기(1)</a>
+        </td>
+      <td/>
+    </tr>
+     <tr>
+        <td>13주차 (2023.9.10)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/62">Android build-logic : Custom Convention Plugins</a>
+        </td>
+       <td/>
+    </tr>
+    <tr>
+        <td>14주차 (2023.9.17)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/63">Android CI/CD : Github Action을 통해 CI/CD 구축하기</a>
+        </td>
+      <td/>
+    </tr>
+     <tr>
+        <td>16주차 (2023.10.8)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/65">Android Lint : 협업을 위한 코드 포맷팅 도구, KtLint 살펴보기</a>
+        </td>
+       <td/>
+    </tr>
+    <tr>
+        <td>17주차 (2023.10.22)</td>
+        <td>
+          정자이노 병원 입원
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/2</td>
+    </tr>
   
 
 </table>
