@@ -32,14 +32,12 @@
 <summary><strong>1주차 : 2023-5-9</strong></summary>
 
 - [[안드로이드] 아키텍처 원칙](https://namamim.tistory.com/1) - ([@Zepelown](https://github.com/Zepelown))(https://github.com/pknujsp))
-- [Android Jetpack : Paging3 + Room로 로컬 캐싱 구현하기](https://jeongjaino.tistory.com/41) - ([@jeongjaino](https://github.com/jeongjaino))
 - [Kotlin 기본 문법 & 함수](https://blog.naver.com/pluto0303/223097477546) - ([@Redish03](https://github.com/Redish03))
 </details>
 <br>
 <details>
 <summary><strong>2주차 : 2023-5-25</strong></summary>
   
-- [Android SharedData : View간 Data를 공유하는 방법 및 예시](https://jeongjaino.tistory.com/42) - ([@jeongjaino](https://github.com/jeongjaino))
 - [Kotlin 기본 문법(2)](https://m.blog.naver.com/pluto0303/223105639326) - ([@Redish03](https://github.com/Redish03))
 - [[안드로이드]RecyclerView에 관하여](https://namamim.tistory.com/2) - ([@Zepelown](https://github.com/Zepelown))
 </details>
@@ -50,14 +48,12 @@
 - [앱이 시작되는 방법 3가지 - Cold Start, Warm Start, Hot Start 쉽게 이해하기 (Android)](https://blog.naver.com/tgyuu_/223140430401), [Andorid 12 이후, Splash Screen API로 Splash 대응하기 (Android)](https://blog.naver.com/tgyuu_/223141449215) - ([@tgyuuAn](https://github.com/tgyuuAn))
 - [Android 주요 구성 요소](https://blog.naver.com/pluto0303/223144200967) - ([@Redish03](https://github.com/Redish03))
 - [[안드로이드]DataStore에 대하여](https://namamim.tistory.com/4) - ([@Zepelown](https://github.com/Zepelown))
-- [Android Version Catalog : 라이브러리 버전 관리](https://jeongjaino.tistory.com/46) - ([@jeongjaino](https://github.com/jeongjaino))
 </details>
 <br>
 <details>
 <summary><strong>4주차 : 2023-7-9</strong></summary>
   
 - [화면 구성하기 - Activity 활용](https://blog.naver.com/pluto0303/223150472475) - ([@Redish03](https://github.com/Redish03))
-- [Kotlin Result : 결과와 예외 처리하기](https://jeongjaino.tistory.com/47) - ([@jeongjaino](https://github.com/jeongjaino))
 - [[안드로이드]FragmentManager](https://namamim.tistory.com/5) - ([@Zepelown](https://github.com/Zepelown))
 - [사용자의 인증을 확인하는 방식 3가지 쿠키, 세션, 토큰 (HTTP)](https://blog.naver.com/tgyuu_/223151236233) - ([@tgyuuAn](https://github.com/tgyuuAn))
 </details>
@@ -66,7 +62,6 @@
 <summary><strong>5주차 : 2023-7-16</strong></summary>
   
 - [[안드로이드] 콘텐츠 제공자(ContentProvider) 와 콘텐츠 리졸버(ContentResolver)](https://namamim.tistory.com/6) - ([@Zepelown](https://github.com/Zepelown))
-- [Android Multi Module : 다중 모듈 구성시 발생할 수 있는 문제](https://jeongjaino.tistory.com/51) - ([@jeongjaino](https://github.com/jeongjaino))
 - [클린 아키텍처, MVVM 완전 쉽게 풀어서 설명하기 (1) - 의존성, 의존성 역전 (Architecture Pattern)](https://blog.naver.com/tgyuu_/223157801061) - ([@tgyuuAn](https://github.com/tgyuuAn))
 </details>
 <br>
