@@ -323,9 +323,9 @@
       <td>https://github.com/pknu-wap/android-blog-study/issues/2</td>
     </tr>
 
-<br><br>
-
 </table>
+
+<br><br>
 
    ## 정진호 [@jeongjaino](https://github.com/jeongjaino)  
 <a href="https://github.com/jeongjaino"><img src="https://avatars.githubusercontent.com/u/77484719?v=4" width="64" height="64"></a>
