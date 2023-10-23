@@ -1,16 +1,27 @@
-# 🌿 안드로이드 블로그 스터디 
+# 안드로이드 블로그 스터디 🌿 
+
+> 스터디 진행 기간 : 2023.05.09 ~ 진행중
+> 
+> 스터디 진행 시간 : 매주 일요일 8시
 
 <br>
-개발, 코틀린, 안드로이드에 관한 주제로 블로그 포스팅 후 발표하는 스터디입니다.
-<br><br>
 
-## 🧑‍💻 Members
+## 스터디 진행방식 🏋
+ - 개발, Kotlin, Android에 관한 주제로 블로그 포스팅을 한다.
+ - Github Issue에 포스팅한 블로그 주소를 붙여넣는다.
+ - 정해진 스터디 시간에, 각자 10분간 작성한 포스팅에 대해 발표를 한다.
+ - 다른 참여자는 궁금한 점을 질문하고, 피드백을 남긴다.
+
+<br>
+
+## 스터디 참여자 🌟
 
 <br>
 
 |                                             [@jeongjaino](https://github.com/jeongjaino)                                             |                                                [@pknujsp](https://github.com/pknujsp)                                                 |                                                 [@tgyuuAn](https://github.com/tgyuuAn)                                                 |                                             [@Zepelown](https://github.com/Zepelown)                                              |                                             [@Redish03](https://github.com/Redish03)                                              |                                             [@SeongHoonC](https://github.com/SeongHoonC)                                             |
 | :----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="(https://github.com/jeongjaino"><img src="https://avatars.githubusercontent.com/u/77484719?v=4" width="64" height="64"></a> | <a href="https://github.com/pknujsp"><img src="https://avatars.githubusercontent.com/u/48265129?s=64&v=4" width="64" height="64"></a> | <a href="https://github.com/tgyuuAn"><img src="https://avatars.githubusercontent.com/u/116813010?s=64&v=4" width="64" height="64"></a> | <a href="https://github.com/Zepelown"><img src="https://avatars.githubusercontent.com/u/49135677?v=4" width="64" height="64"></a> | <a href="https://github.com/Redish03"><img src="https://avatars.githubusercontent.com/u/98575563?v=4" width="64" height="64"></a> | <a href="https://github.com/SeongHoonC"><img src="https://avatars.githubusercontent.com/u/108349655?v=4" width="64" height="64"></a> |
+| 정진호 | 박준성 | 인테규 | 윤성원 | 홍성우 | 최성훈 | 
 
 <br><br>
 ## 📝 Record
