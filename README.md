@@ -449,5 +449,131 @@
       <td>https://github.com/pknu-wap/android-blog-study/issues/2</td>
     </tr>
   
+</table>
 
+<br><br>
+
+   ## 안태규 [@tgyuuAn](https://github.com/tgyuuAn)  
+<a href="https://github.com/tgyuuAn"><img src="https://avatars.githubusercontent.com/u/116813010?v=4" width="64" height="64"></a>
+
+<table>
+    <tr>
+        <th>날짜</th>
+        <th>블로그</th>
+        <th>이슈 번호</th>
+    </tr>
+    <tr>
+        <td>1주차 (2023.5.9)</td>
+        <td>
+         -
+        </td>
+      <td/>
+    </tr>
+   <tr>
+        <td>2주차 (2023.5.25)</td>
+        <td>
+         -
+        </td>
+     <td/>
+    </tr>
+    <tr>
+        <td>3주차 (2023.6.1)</td>
+        <td>
+         -
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>4주차 (2023.7.2)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223140430401">앱이 시작되는 방법 3가지 - Cold Start, Warm Start, Hot Start 쉽게 이해하기</a><br>
+          <a href="https://blog.naver.com/tgyuu_/223141449215">Andorid 12 이후, Splash Screen API로 Splash 대응하기</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>5주차 (2023.7.9)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223151236233">사용자의 인증을 확인하는 방식 3가지 쿠키, 세션, 토큰</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>6주차 (2023.7.16)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223157801061">클린 아키텍처, MVVM 완전 쉽게 풀어서 설명하기 (1) - 의존성, 의존성 역전</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>7주차 (2023.7.22)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223162710654">클린 아키텍처, MVVM 완전 쉽게 풀어서 설명하기 (2) - 클린 아키텍쳐</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>8주차 (2023.7.30)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223168882497">클린 아키텍처, MVVM 완전 쉽게 풀어서 설명하기 (3) - Presentation 영역 디자인 패턴 MVC, MVP, MVVM </a>
+        </td>
+      <td/>
+    </tr>
+   <tr>
+        <td>9주차 (2023.8.6)</td>
+        <td>
+           <a href="https://blog.naver.com/tgyuu_/223175917252">StateFlow, SharedFlow 차이점을 준비 했는데,,, 숟가락만 얹으세요! </a>
+        </td>
+     <td/>
+    </tr>
+    <tr>
+        <td>10주차 (2023.8.13)</td>
+        <td>
+           <a href="https://blog.naver.com/tgyuu_/223182109300">ChannelFlow, CallbackFlow 이건 진짜 떠먹여 드립니다..!</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>11주차 (2023.8.25)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223001300070">inline, noinline, crossline 쉽게쉽게 이해해보자!</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>12주차 (2023.9.3)</td>
+        <td>
+         Tgyuu의 입원 🏥
+        </td>
+      <td/>
+    </tr>
+     <tr>
+        <td>13주차 (2023.9.10)</td>
+        <td>
+         Tgyuu의 입원 🏥
+        </td>
+       <td/>
+    </tr>
+    <tr>
+        <td>14주차 (2023.9.17)</td>
+        <td>
+        Tgyuu의 입원 🏥
+        </td>
+      <td/>
+    </tr>
+     <tr>
+        <td>16주차 (2023.10.8)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223231257685 ">클린 코드 완전 쉽게 풀어서 설명하기 (1) </a>
+        </td>
+       <td/>
+    </tr>
+    <tr>
+        <td>17주차 (2023.10.22)</td>
+        <td>
+          중간고사
+        </td>
+      <td></td>
+    </tr>
+  
 </table>
