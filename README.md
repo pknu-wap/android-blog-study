@@ -543,21 +543,21 @@
     <tr>
         <td>12주차 (2023.9.3)</td>
         <td>
-         Tgyuu의 입원 🏥
+         Tgyuu 입원🏥
         </td>
       <td/>
     </tr>
      <tr>
         <td>13주차 (2023.9.10)</td>
         <td>
-         Tgyuu의 입원 🏥
+         Tgyuu 입원🏥
         </td>
        <td/>
     </tr>
     <tr>
         <td>14주차 (2023.9.17)</td>
         <td>
-        Tgyuu의 입원 🏥
+        Tgyuu 입원🏥
         </td>
       <td/>
     </tr>
@@ -573,7 +573,7 @@
         <td>
           중간고사
         </td>
-      <td></td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/2</td>
     </tr>
   
 </table>
