@@ -337,7 +337,7 @@
     <tr>
         <td>1주차 (2023.5.9)</td>
         <td>
-          <a href="https://jeongjaino.tistory.com/41">Android Jetpack : Paging3 + Room로 로컬 캐싱 구현하기</a>
+          <a href="https://jeongjaino.tistory.com/55">Android Pagination : Jetpack Paging3 Library</a>
         </td>
       <td/>
     </tr>
