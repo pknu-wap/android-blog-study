@@ -575,5 +575,12 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/2</td>
     </tr>
+    <tr>
+        <td>18주차 (2023.10.29)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223249749041">백킹 프로퍼티.. 잘 사용하고 계신가요? 프로퍼티를 알아보고 완벽히 이해 해보아요...!</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/3</td>
+    </tr>
   
 </table>
