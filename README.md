@@ -195,6 +195,14 @@
       </td>
     <td>https://github.com/pknu-wap/android-blog-study/issues/2</td>
   </tr>
+   <tr>
+      <td>18주차 (2023.10.22)</td>
+        <td>
+          <a href="https://seonghoonc.tistory.com/37">Repository Pattern</a> <br>
+          <a href="https://seonghoonc.tistory.com/38">Kotlin Coroutines Deep Dive - 코루틴의 실제 구현</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/3</td>
+    </tr>
 </table>
 
 <br><br>
@@ -320,7 +328,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/2</td>
     </tr>
-
+    <tr>
+      <td>18주차 (2023.10.22)</td>
+        <td>
+          <a href="https://pknujsp.github.io/dalvik/art/android/2023/10/15/Android-Dalvik과-Art에-대해서.html">Android Dalvik과 ART에 대해서 [발표]</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/3</td>
+    </tr>
 </table>
 
 <br><br>
