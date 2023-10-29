@@ -453,7 +453,7 @@
         <td>
           <a href="https://jeongjaino.tistory.com/66">Android Hilt : Hilt Component와 Scope 톺아보기</a>
         </td>
-      <td>https://github.com/pknu-wap/android-blog-study/issues/2</td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/3</td>
     </tr>
   
 </table>
