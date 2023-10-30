@@ -605,3 +605,135 @@
     </tr>
   
 </table>
+
+<br><br>
+## 윤성원 [@Zepelown](https://github.com/Zepelown)
+<a href="https://github.com/Zepelown"><img src="https://avatars.githubusercontent.com/u/49135677?v=4" width="64" height="64"></a>
+
+<table>
+    <tr>
+        <th>날짜</th>
+        <th>블로그</th>
+        <th>이슈 번호</th>
+    </tr>
+    <tr>
+        <td>1주차 (2023.5.9)</td>
+        <td>
+         <a href="https://namamim.tistory.com/1">아키텍처 원칙</a>
+        </td>
+      <td/>
+    </tr>
+   <tr>
+        <td>2주차 (2023.5.25)</td>
+        <td>
+         <a href="https://namamim.tistory.com/2">RecyclerView에 관하여</a>
+        </td>
+     <td/>
+    </tr>
+    <tr>
+        <td>3주차 (2023.6.1)</td>
+        <td>
+         <a href="https://namamim.tistory.com/3">Intent에 관하여</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>4주차 (2023.7.2)</td>
+        <td>
+          <a href="https://namamim.tistory.com/4">DataStore에 관하여</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>5주차 (2023.7.9)</td>
+        <td>
+          <a href="https://namamim.tistory.com/5">FragmentManager</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>6주차 (2023.7.16)</td>
+        <td>
+          <a href="https://namamim.tistory.com/6">콘텐츠 제공자(ContentProvider) 와 콘텐츠 리졸버(ContentResolver)</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>7주차 (2023.7.22)</td>
+        <td>
+          <a href="https://namamim.tistory.com/7">서비스</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>8주차 (2023.7.30)</td>
+        <td>
+          <a href="https://namamim.tistory.com/8">CustomTextView</a>
+        </td>
+      <td/>
+    </tr>
+   <tr>
+        <td>9주차 (2023.8.6)</td>
+        <td>
+           <a href="https://namamim.tistory.com/9">CameraX(Preview, ImageCapture)</a>
+        </td>
+     <td/>
+    </tr>
+    <tr>
+        <td>10주차 (2023.8.13)</td>
+        <td>
+           <a href="https://namamim.tistory.com/10">안드로이드 앱 모듈화</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>11주차 (2023.8.25)</td>
+        <td>
+          <a href="https://namamim.tistory.com/11">LiveData에 관하여</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>12주차 (2023.9.3)</td>
+        <td>
+         -
+        </td>
+      <td/>
+    </tr>
+     <tr>
+        <td>13주차 (2023.9.10)</td>
+        <td>
+         <a href="https://namamim.tistory.com/12">페이징(Paging)(개념 위주)</a>
+        </td>
+       <td/>
+    </tr>
+    <tr>
+        <td>14주차 (2023.9.17)</td>
+        <td>
+        <a href="https://namamim.tistory.com/13">Retrofit2 에 관하여</a>
+        </td>
+      <td/>
+    </tr>
+     <tr>
+        <td>16주차 (2023.10.8)</td>
+        <td>
+          <a href="https://namamim.tistory.com/13">Glide 에 관하여</a>
+        </td>
+       <td/>
+    </tr>
+    <tr>
+        <td>17주차 (2023.10.22)</td>
+        <td>
+          중간고사
+        </td>
+      <td></td>
+    </tr>
+    <tr>
+        <td>18주차 (2023.10.29)</td>
+        <td>
+          <a href="https://namamim.tistory.com/14">단위 테스트를 도와주는 JUnit 5</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/3</td>
+    </tr>
+
+</table>
