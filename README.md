@@ -737,3 +737,50 @@
     </tr>
 
 </table>
+
+<br> <br>
+## 홍성우 [@Redish03](https://github.com/Redish03)
+<a href="https://github.com/Redish03"><img src="https://avatars.githubusercontent.com/u/98575563?v=4" width="64" height="64"></a> 
+
+<table>
+    <tr>
+        <th>날짜</th>
+        <th>블로그</th>
+      <th>이슈 번호</th>
+    </tr>
+    <tr>
+        <td>1주차 (2023.5.9)</td>
+        <td>
+          <a href="https://blog.naver.com/pluto0303/223097477546">Kotlin 기본 문법 & 함수</a>
+        </td>
+      <td/>
+    </tr>
+   <tr>
+        <td>2주차 (2023.5.25)</td>
+        <td>
+          <a href="https://blog.naver.com/pluto0303/223105639326">Kotlin 기본 문법(2), Logging(로깅) & Debugging(디버깅)</a>
+        </td>
+     <td/>
+    </tr>
+    <tr>
+        <td>3주차 (2023.6.1)</td>
+        <td>
+          <a href="https://blog.naver.com/pluto0303/223116482629">Linear layout과 Scroll View</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>4주차 (2023.7.2)</td>
+        <td>
+          <a href="https://blog.naver.com/pluto0303/223144200967">https://blog.naver.com/pluto0303/223144200967</a>
+        </td>
+      <td/>
+    </tr>
+    <tr>
+        <td>5주차 (2023.7.9)</td>
+        <td>
+          <a href="https://blog.naver.com/pluto0303/223150472475">화면 구성하기 - Activity 활용</a>
+        </td>
+      <td/>
+    </tr>
+</table>
