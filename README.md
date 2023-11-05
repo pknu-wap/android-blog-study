@@ -19,7 +19,7 @@
 |                                             [@jeongjaino](https://github.com/jeongjaino)                                             |                                                [@pknujsp](https://github.com/pknujsp)                                                 |                                                 [@tgyuuAn](https://github.com/tgyuuAn)                                                 |                                             [@Zepelown](https://github.com/Zepelown)                                              |                                             [@Redish03](https://github.com/Redish03)                                              |                                             [@SeongHoonC](https://github.com/SeongHoonC)                                             |
 | :----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="(https://github.com/jeongjaino"><img src="https://avatars.githubusercontent.com/u/77484719?v=4" width="128" height="128"></a> | <a href="https://github.com/pknujsp"><img src="https://avatars.githubusercontent.com/u/48265129?v=4" width="128" height="128"></a> | <a href="https://github.com/tgyuuAn"><img src="https://avatars.githubusercontent.com/u/116813010?v=4" width="128" height="128"></a> | <a href="https://github.com/Zepelown"><img src="https://avatars.githubusercontent.com/u/49135677?v=4" width="128" height="128"></a> | <a href="https://github.com/Redish03"><img src="https://avatars.githubusercontent.com/u/98575563?v=4" width="128" height="128"></a> | <a href="https://github.com/SeongHoonC"><img src="https://avatars.githubusercontent.com/u/108349655?v=4" width="128" height="128"></a> |
-| 정진호 | 박준성 | 인테규 | 윤성원 | 홍성우 | 최성훈 | 
+| 정진호 | 박준성 | 안태규 | 윤성원 | 홍성우 | 최성훈 | 
 
 <br><br>
 ## 📝 Record
@@ -204,11 +204,11 @@
       <td>https://github.com/pknu-wap/android-blog-study/issues/3</td>
     </tr>
     <tr>
-      <td>18주차 (2023.11.05)</td>
+      <td>19주차 (2023.11.05)</td>
         <td>
           <a href="https://seonghoonc.tistory.com/39">Hot Channel vs Cold Flow</a>
         </td>
-      <td>https://github.com/pknu-wap/android-blog-study/issues/3</td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/4</td>
     </tr>
 </table>
 
@@ -341,6 +341,13 @@
           <a href="https://pknujsp.github.io/dalvik/art/android/2023/10/15/Android-Dalvik과-Art에-대해서.html">Android Dalvik과 ART에 대해서 [발표]</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/3</td>
+    </tr>
+    <tr>
+      <td>19주차 (2023.11.05)</td>
+        <td>
+          <a href="https://pknujsp.github.io/android/2023/11/04/Android-DataBinding,-ViewBinding%EC%9D%B4-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95.html">Android DataBinding, ViewBinding이 파일을 생성하는 방법</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/4</td>
     </tr>
 </table>
 
@@ -476,7 +483,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/3</td>
     </tr>
-  
+    <tr>
+      <td>19주차 (2023.11.05)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/67">Kotlin SuspendCoroutine : Callback to Coroutines</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/4</td>
+    </tr>
 </table>
 
 <br><br>
@@ -610,7 +623,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/3</td>
     </tr>
-  
+    <tr>
+      <td>19주차 (2023.11.05)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223256345939">@Composable 어노테이션 뭘까..? ++Compose, GapBuffer (Android)</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/4</td>
+    </tr>
 </table>
 
 <br><br>
