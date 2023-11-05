@@ -203,6 +203,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/3</td>
     </tr>
+    <tr>
+      <td>18주차 (2023.11.05)</td>
+        <td>
+          <a href="https://seonghoonc.tistory.com/39">Hot Channel vs Cold Flow</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/3</td>
+    </tr>
 </table>
 
 <br><br>
