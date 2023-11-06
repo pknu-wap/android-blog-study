@@ -443,7 +443,7 @@
     <tr>
       <td>19주차 (2023.11.05)</td>
         <td>
-          <a href="https://jeongjaino.tistory.com/67">Kotlin SuspendCoroutine : Callback to Coroutines</a>
+          <a href="https://jeongjaino.tistory.com/67">Kotlin SuspendCoroutine : Callback to Coroutines</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/4</td>
     </tr>
@@ -583,7 +583,7 @@
     <tr>
       <td>19주차 (2023.11.05)</td>
         <td>
-          <a href="https://blog.naver.com/tgyuu_/223256345939">@Composable 어노테이션 뭘까..? ++Compose, GapBuffer (Android)</a>
+          <a href="https://blog.naver.com/tgyuu_/223256345939">@Composable 어노테이션 뭘까..? ++Compose, GapBuffer (Android)</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/4</td>
     </tr>
