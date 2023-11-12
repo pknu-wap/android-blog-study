@@ -167,6 +167,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/4</td>
     </tr>
+      <tr>
+      <td>20주차 (2023.11.12)</td>
+        <td>
+          <a href="https://seonghoonc.tistory.com/40">앱 재설치 시 크래시 발생(EncryptedSharedPreferences)</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/5</td>
+    </tr>
 </table>
 
 <br><br>
@@ -305,6 +312,13 @@
           <a href="https://pknujsp.github.io/android/2023/11/04/Android-DataBinding,-ViewBinding%EC%9D%B4-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95.html">Android DataBinding, ViewBinding이 파일을 생성하는 방법</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/4</td>
+    </tr>
+     <tr>
+      <td>20주차 (2023.11.12)</td>
+        <td>
+          <a href="https://pknujsp.github.io/kotlin/coroutines/2023/11/12/%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC.html">코루틴에서의 예외 처리</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/5</td>
     </tr>
 </table>
 
@@ -447,6 +461,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/4</td>
     </tr>
+       <tr>
+      <td>20주차 (2023.11.12)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/68">Android Compose : SideEffect Handler(1)</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/5</td>
+    </tr>
 </table>
 
 <br><br>
@@ -587,6 +608,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/4</td>
     </tr>
+        <tr>
+      <td>20주차 (2023.11.12)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223262948277">컴포즈에서 Composable 의 높이, 너비 측정 정책 및 측정하는 방법</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/5</td>
+    </tr>
 </table>
 
 <br><br>
@@ -718,7 +746,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/3</td>
     </tr>
-
+        <tr>
+      <td>20주차 (2023.11.12)</td>
+        <td>
+          <a href="https://namamim.tistory.com/16">SQLite와 RoomDB</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/5</td>
+    </tr>
 </table>
 
 <br> <br>
