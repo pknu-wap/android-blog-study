@@ -179,7 +179,6 @@
         <td>
           <a href="https://seonghoonc.tistory.com/41">RecyclerView 목록 스크롤에 CoordinatorLayout 적용하기</a>
         </td>
-      <td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/6</td>
     </tr>
 </table>
