@@ -16,10 +16,10 @@
 
 ## 스터디 참여자 🌟
 
-|                                             [@jeongjaino](https://github.com/jeongjaino)                                             |                                                [@pknujsp](https://github.com/pknujsp)                                                 |                                                 [@tgyuuAn](https://github.com/tgyuuAn)                                                 |                                             [@Zepelown](https://github.com/Zepelown)                                              |                                             [@Redish03](https://github.com/Redish03)                                              |                                             [@SeongHoonC](https://github.com/SeongHoonC)                                             |
-| :----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+|                                              [@jeongjaino](https://github.com/jeongjaino)                                              |                                               [@pknujsp](https://github.com/pknujsp)                                               |                                               [@tgyuuAn](https://github.com/tgyuuAn)                                                |                                              [@Zepelown](https://github.com/Zepelown)                                               |                                              [@Redish03](https://github.com/Redish03)                                               |                                              [@SeongHoonC](https://github.com/SeongHoonC)                                              |
+| :------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="(https://github.com/jeongjaino"><img src="https://avatars.githubusercontent.com/u/77484719?v=4" width="128" height="128"></a> | <a href="https://github.com/pknujsp"><img src="https://avatars.githubusercontent.com/u/48265129?v=4" width="128" height="128"></a> | <a href="https://github.com/tgyuuAn"><img src="https://avatars.githubusercontent.com/u/116813010?v=4" width="128" height="128"></a> | <a href="https://github.com/Zepelown"><img src="https://avatars.githubusercontent.com/u/49135677?v=4" width="128" height="128"></a> | <a href="https://github.com/Redish03"><img src="https://avatars.githubusercontent.com/u/98575563?v=4" width="128" height="128"></a> | <a href="https://github.com/SeongHoonC"><img src="https://avatars.githubusercontent.com/u/108349655?v=4" width="128" height="128"></a> |
-| 정진호 | 박준성 | 안태규 | 윤성원 | 홍성우 | 최성훈 | 
+|                                                                 정진호                                                                 |                                                               박준성                                                               |                                                               안태규                                                                |                                                               윤성원                                                                |                                                               홍성우                                                                |                                                                 최성훈                                                                 |
 
 <br><br>
 
@@ -174,6 +174,14 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/5</td>
     </tr>
+    <tr>
+      <td>21주차 (2023.11.19)</td>
+        <td>
+          <a href="https://seonghoonc.tistory.com/41">RecyclerView 목록 스크롤에 CoordinatorLayout 적용하기</a>
+        </td>
+      <td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/6</td>
+    </tr>
 </table>
 
 <br><br>
@@ -316,9 +324,16 @@
      <tr>
       <td>20주차 (2023.11.12)</td>
         <td>
-          <a href="https://pknujsp.github.io/kotlin/coroutines/2023/11/12/%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC.html">코루틴에서의 예외 처리</a>
+          <a href="https://pknujsp.github.io/kotlin/coroutines/2023/11/12/%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC.html">코루틴에서의 예외 처리 정리</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/5</td>
+    </tr>
+     <tr>
+      <td>21주차 (2023.11.19)</td>
+        <td>
+          <a href="https://pknujsp.github.io/kotlin/coroutines/2023/11/12/%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC.html">코루틴에서의 예외 처리 정리(재작성)</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/6</td>
     </tr>
 </table>
 
@@ -461,12 +476,19 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/4</td>
     </tr>
-       <tr>
+    <tr>
       <td>20주차 (2023.11.12)</td>
         <td>
           <a href="https://jeongjaino.tistory.com/68">Android Compose : SideEffect Handler(1)</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/5</td>
+    </tr>
+    <tr>
+      <td>21주차 (2023.11.19)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/69">Android Compose : SideEffect Handler(2)</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/6</td>
     </tr>
 </table>
 
@@ -608,12 +630,19 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/4</td>
     </tr>
-        <tr>
+    <tr>
       <td>20주차 (2023.11.12)</td>
         <td>
           <a href="https://blog.naver.com/tgyuu_/223262948277">컴포즈에서 Composable 의 높이, 너비 측정 정책 및 측정하는 방법</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/5</td>
+    </tr>
+    <tr>
+      <td>21주차 (2023.11.19)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223269088671">Firebase에서 NoSQL을 사용하는 이유, NoSQL은 뭐야? ++ 파이어 베이스 기본 값 생성자 이유</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/6</td>
     </tr>
 </table>
 
@@ -752,6 +781,13 @@
           <a href="https://namamim.tistory.com/16">SQLite와 RoomDB</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/5</td>
+    </tr>
+       <tr>
+      <td>21주차 (2023.11.19)</td>
+        <td>
+          <a href="https://namamim.tistory.com/17">어노테이션(Annotation) 개념과 예시</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/6</td>
     </tr>
 </table>
 
