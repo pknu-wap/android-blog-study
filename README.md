@@ -181,6 +181,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/6</td>
     </tr>
+    <tr>
+      <td>22주차 (2023.11.26)</td>
+        <td>
+          <a>코테 및 Devfest 발표준비</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/7</td>
+    </tr>
 </table>
 
 <br><br>
@@ -333,6 +340,13 @@
           <a href="https://pknujsp.github.io/kotlin/coroutines/2023/11/12/%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC.html">코루틴에서의 예외 처리 정리(재작성)</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/6</td>
+    </tr>
+    <tr>
+      <td>22주차 (2023.11.26)</td>
+        <td>
+          <a href="https://pknujsp.github.io/android/2023/11/27/%EB%B9%88%ED%98%88-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%AA%A8%EB%8D%B8,-%EC%93%B8%EB%AA%A8%EC%97%86%EB%8A%94-%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4,-%EB%B9%84%EB%8C%80%ED%95%9C-%EB%B7%B0%EB%AA%A8%EB%8D%B8%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-DroidKnights-2023.html">빈혈 도메인 모델, 쓸모없는 유스케이스, 비대한 뷰모델에 대하여 DroidKnights 2023</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/7</td>
     </tr>
 </table>
 
@@ -489,6 +503,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/6</td>
     </tr>
+     <tr>
+      <td>22주차 (2023.11.26)</td>
+        <td>
+          <a href="https://jeongjaino.tistory.com/70">Hackathon : Retrofit2 Multipart Annotation 그리고 모배디 해커톤 후기</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/7</td>
+    </tr>
 </table>
 
 <br><br>
@@ -643,6 +664,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/6</td>
     </tr>
+    <tr>
+      <td>22주차 (2023.11.26)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223276267459">Compose로 커스텀 달력 만들기 ! 제 20시간의 노력을 봐주실래요 ..?</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/7</td>
+    </tr>
 </table>
 
 <br><br>
@@ -781,12 +809,19 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/5</td>
     </tr>
-       <tr>
+    <tr>
       <td>21주차 (2023.11.19)</td>
         <td>
           <a href="https://namamim.tistory.com/17">어노테이션(Annotation) 개념과 예시</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/6</td>
+    </tr>
+    <tr>
+      <td>22주차 (2023.11.26)</td>
+        <td>
+          <a>개인 사정</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/7</td>
     </tr>
 </table>
 
