@@ -188,6 +188,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/7</td>
     </tr>
+    <tr>
+      <td>23주차 (2023.12.03)</td>
+        <td>
+          <a href="https://seonghoonc.tistory.com/42">함께 성장하기 - DevFest Busan 2023</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/8</td>
+    </tr>
 </table>
 
 <br><br>
@@ -347,6 +354,13 @@
           <a href="https://pknujsp.github.io/android/2023/11/27/%EB%B9%88%ED%98%88-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%AA%A8%EB%8D%B8,-%EC%93%B8%EB%AA%A8%EC%97%86%EB%8A%94-%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4,-%EB%B9%84%EB%8C%80%ED%95%9C-%EB%B7%B0%EB%AA%A8%EB%8D%B8%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-DroidKnights-2023.html">빈혈 도메인 모델, 쓸모없는 유스케이스, 비대한 뷰모델에 대하여 DroidKnights 2023</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/7</td>
+    </tr>
+    <tr>
+      <td>23주차 (2023.12.03)</td>
+        <td>
+          <a href="https://pknujsp.github.io/kotlin/2023/12/10/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%BA%90%EC%8B%9C-%EA%B4%80%EB%A6%AC-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.html">코틀린 코루틴을 활용해 데이터 메모리 캐시 기능 구현하기</a><br>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/8</td>
     </tr>
 </table>
 
@@ -670,6 +684,14 @@
           <a href="https://blog.naver.com/tgyuu_/223276267459">Compose로 커스텀 달력 만들기 ! 제 20시간의 노력을 봐주실래요 ..?</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/7</td>
+    </tr>
+    <tr>
+      <td>23주차 (2023.12.03)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223280946944">Jetpack Compose Navigation 짱 쉽네..? 저만 따라오세요!</a><br>
+          <a href="https://blog.naver.com/tgyuu_/223281079327">Jetpack Compose BottomNavigationView, 네비게이션을 알면 이건 덤입니다!</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/8</td>
     </tr>
 </table>
 
