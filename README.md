@@ -196,11 +196,18 @@
       <td>https://github.com/pknu-wap/android-blog-study/issues/8</td>
     </tr>
      <tr>
-      <td>23주차 (2023.12.03)</td>
+      <td>24주차 (2023.12.10)</td>
         <td>
           <a href="https://seonghoonc.tistory.com/43">Compose 를 왜 사용해야하는가?</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/9</td>
+    </tr>
+      <tr>
+      <td>25주차 (2023.12.17)</td>
+        <td>
+          <a href="https://seonghoonc.tistory.com/44">컴포즈 Codelab 기초 따라하기 - 1</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/10</td>
     </tr>
 </table>
 
@@ -704,9 +711,17 @@
       <td>24주차 (2023.12.10)</td>
         <td>
           <a href="https://blog.naver.com/tgyuu_/223287263631">중단은 어떻게 작동할까? (1) (Kotlin Coroutine)</a><br>
-          <a href="https://blog.naver.com/tgyuu_/223287264324">중단은 어떻게 작동할까? (1) (Kotlin Coroutine)</a>
+          <a href="https://blog.naver.com/tgyuu_/223287264324">중단은 어떻게 작동할까? (2) (Kotlin Coroutine)</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/9</td>
+    </tr>
+     </tr>
+      <tr>
+      <td>25주차 (2023.12.17)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223290411871">코루틴의 실제 구현 (Kotlin Coroutine)</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/10</td>
     </tr>
 </table>
 
