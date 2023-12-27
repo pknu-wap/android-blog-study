@@ -209,6 +209,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/10</td>
     </tr>
+    <tr>
+      <td>26주차 (2023.12.24)</td>
+        <td>
+          <a href="https://seonghoonc.tistory.com/45">컴포즈 Codelab 기초 따라하기 - 2</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/11</td>
+    </tr>
 </table>
 
 <br><br>
@@ -722,6 +729,14 @@
           <a href="https://blog.naver.com/tgyuu_/223290411871">코루틴의 실제 구현 (Kotlin Coroutine)</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/10</td>
+    </tr>
+  </tr>
+      <tr>
+      <td>26주차 (2023.12.24)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223295472771">Compose의 전반적인 이해 - 선언형 프로그래밍</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/11</td>
     </tr>
 </table>
 
