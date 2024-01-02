@@ -216,6 +216,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/11</td>
     </tr>
+    <tr>
+      <td>27주차 (2023.12.31)</td>
+        <td>
+          <a href="https://seonghoonc.tistory.com/46">2023년 회고</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/12</td>
+    </tr>
 </table>
 
 <br><br>
@@ -382,6 +389,13 @@
           <a href="https://pknujsp.github.io/kotlin/2023/12/10/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%BA%90%EC%8B%9C-%EA%B4%80%EB%A6%AC-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.html">코틀린 코루틴을 활용해 데이터 메모리 캐시 기능 구현하기</a><br>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/8</td>
+    </tr>
+    <tr>
+      <td>27주차 (2023.12.31)</td>
+        <td>
+          <a href="https://pknujsp.github.io/private/2023/12/30/2023%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0.html">2023년을 돌아보며</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/12</td>
     </tr>
 </table>
 
@@ -738,6 +752,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/11</td>
     </tr>
+   <tr>
+      <td>27주차 (2023.12.31)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223307155694">많이 실패하고, 바쁘게 보냈던 2023년 회고</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/12</td>
+    </tr>
 </table>
 
 <br><br>
@@ -889,6 +910,13 @@
           <a>개인 사정</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/7</td>
+    </tr>
+ <tr>
+      <td>27주차 (2023.12.31)</td>
+        <td>
+          <a href="https://namamim.tistory.com/18">2023년 회고</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/12</td>
     </tr>
 </table>
 
