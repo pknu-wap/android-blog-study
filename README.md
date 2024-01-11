@@ -223,6 +223,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/12</td>
     </tr>
+    <tr>
+      <td>28주차 (2024.01.07)</td>
+        <td>
+          <a href="https://seonghoonc.tistory.com/47">DataStore 이해하기</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/13</td>
+    </tr>
 </table>
 
 <br><br>
@@ -396,6 +403,13 @@
           <a href="https://pknujsp.github.io/private/2023/12/30/2023%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0.html">2023년을 돌아보며</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/12</td>
+    </tr>
+    <tr>
+      <td>28주차 (2024.01.07)</td>
+        <td>
+          <a href="https://pknujsp.github.io/android/2024/01/09/%EC%9E%90%EB%8F%99-%ED%8F%B0%ED%8A%B8-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%88-Text-Composable%EB%A7%8C%EB%93%A4%EA%B8%B0.html">자동으로 폰트 크기 조절되는 Text Composable만들기</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/13</td>
     </tr>
 </table>
 
@@ -759,6 +773,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/12</td>
     </tr>
+    <tr>
+      <td>28주차 (2024.01.07)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223314413452">빈혈 도메인 모델과 쓸모없는 유스케이스, 그리고 비대한 뷰모델에 대해 생각해보기</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/13</td>
+    </tr>
 </table>
 
 <br><br>
@@ -911,12 +932,19 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/7</td>
     </tr>
- <tr>
+  <tr>
       <td>27주차 (2023.12.31)</td>
         <td>
           <a href="https://namamim.tistory.com/18">2023년 회고</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/12</td>
+    </tr>
+    <tr>
+      <td>28주차 (2024.01.07)</td>
+        <td>
+          <a href="https://namamim.tistory.com/19">Retrofit(okhttp)의 WebSocket에 대하여</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/13</td>
     </tr>
 </table>
 
