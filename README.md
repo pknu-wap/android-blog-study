@@ -230,6 +230,13 @@
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/13</td>
     </tr>
+     <tr>
+      <td>29주차 (2024.01.14)</td>
+        <td>
+          <a href="https://seonghoonc.tistory.com/48">Encryption & Decryption in Android</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/14</td>
+    </tr>
 </table>
 
 <br><br>
@@ -779,6 +786,13 @@
           <a href="https://blog.naver.com/tgyuu_/223314413452">빈혈 도메인 모델과 쓸모없는 유스케이스, 그리고 비대한 뷰모델에 대해 생각해보기</a>
         </td>
       <td>https://github.com/pknu-wap/android-blog-study/issues/13</td>
+    </tr>
+      <tr>
+      <td>29주차 (2024.01.14)</td>
+        <td>
+          <a href="https://blog.naver.com/tgyuu_/223322379764">Compose 중첩 스크롤을 이용해 재미난 UI 만들기 -NestedScrollConnection Deep Dive</a>
+        </td>
+      <td>https://github.com/pknu-wap/android-blog-study/issues/14</td>
     </tr>
 </table>
 
